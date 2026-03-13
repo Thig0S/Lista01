@@ -2,5 +2,6 @@
   <Project Path="ex01/ex01.csproj" />
   <Project Path="ex02/ex02.csproj" />
   <Project Path="ex04/ex04.csproj" />
+  <Project Path="ex06/ex06.csproj" />
   <Project Path="exercicio03/exercicio03.csproj" />
 </Solution>
